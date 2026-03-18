@@ -6,7 +6,7 @@ $cLogPath 			 = "C:\Dell\"
 # if the PC is  NOT    joined to the domain then  LocalAccount ( member of Administrators ) is required
 
 $cComputerRenameAccount   = "administrator"		
-$cComputerRenamePWD       = "P@ssw0rd1!"
+$cComputerRenamePWD       = "TopSecret1"
 
 $cDomainJoinDomain        = "Deploy"
 $cDomainJoinDomainOU      = "OU=testou,DC=Deploy,DC=net"               # OU string has to match the AD path, notice upper and lower-case, notice spaces
