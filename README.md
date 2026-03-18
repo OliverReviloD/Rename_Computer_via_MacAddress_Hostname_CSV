@@ -5,7 +5,7 @@ Several IT Admins want to rename their PCs based on a CSV file ( e.g. MAC list d
 
 <img width="711" height="348" alt="image" src="https://github.com/user-attachments/assets/1bf3c1c0-71e4-4908-9b90-cae90af7dc18" />
 
-
+The initial script was VB-Script cide (developped somewhen 2005) - it is now "translated" to PowerShell
 The example PS1 is designed for OOBE for Full-OS
 
 as an example :  the logfile from the script
